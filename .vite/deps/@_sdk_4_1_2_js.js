@@ -12,9 +12,9 @@ var init_define_process_env_UNI_STAT_TITLE_JSON = __esm({
   }
 });
 
-// ../../../../../../Users/zhaoliang/Documents/HBuilderProjects/vue3-uniapp/sdk/4.1.2.js
+// ../../../../../../Users/zhaoliang/Desktop/vue3-uniapp/sdk/4.1.2.js
 var require__ = __commonJS({
-  "../../../../../../Users/zhaoliang/Documents/HBuilderProjects/vue3-uniapp/sdk/4.1.2.js"(exports, module) {
+  "../../../../../../Users/zhaoliang/Desktop/vue3-uniapp/sdk/4.1.2.js"(exports, module) {
     init_define_process_env_UNI_STAT_TITLE_JSON();
     !function(e, t) {
       typeof exports == "object" && typeof module == "object" ? module.exports = t() : typeof define == "function" && define.amd ? define([], t) : typeof exports == "object" ? exports.websdk = t() : e.websdk = t();
