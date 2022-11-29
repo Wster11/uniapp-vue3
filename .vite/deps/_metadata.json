@@ -1,0 +1,13 @@
+{
+  "hash": "56f9532a",
+  "browserHash": "3eecf8a5",
+  "optimized": {
+    "@/sdk/4.1.2.js": {
+      "src": "../../sdk/4.1.2.js",
+      "file": "@_sdk_4_1_2_js.js",
+      "fileHash": "de88e341",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}
